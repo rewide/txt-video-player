@@ -1,0 +1,10 @@
+[package]
+name = "txt-video-player"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ffmpeg_cmdline_utils = "0.1.1"
+dirs = "1.0.4"
